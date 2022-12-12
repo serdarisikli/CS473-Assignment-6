@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">CVBuilderApp</string>
+    <string name="serdar_isikli">Serdar Isikli</string>
+    <string name="software_engineer">Senior Software Engineer</string>
+    <string name="projects"><b>Ulak</b>:First national base station project in Turkey.\n<b>KEP</b>:Secure electronic e-mail system.\n<b>Atra</b>:Web based reporting tool.</string>
+    <string name="career_note">Versatile Software Engineer with about 10 years of hands-on experience including latest 3 years of experience leading teams through all phases of software development life cycle. Demonstrated expertise in analyzing and resolving technical issues to streamline functionality, improve quality, and enhance performance. Skilled in using technologies such as Java, Spring Boot, Spring MVC, Spring Cloud, Kafka, REST, Microservices, Docker, Kubernetes, PostgreSQL, Apache Tomcat, and Git.</string>
+    <string name="work_experience">
+        <b>Programming Languages</b>: Java, PHP, C# \n
+        <b>Frameworks / Technologies</b>: Spring (Core), Spring Boot, Spring MVC, Spring Data, Spring Security, JSP, JSF, JPA (Hibernate, Toplink), JDBC, REST, SOAP, gRPC, Node.js, Zend Framework \n
+        <b>Message Queue Technologies</b>: Apache Kafka, Rabbit MQ, JMS \n
+        <b>Middleware</b>: Apache Tomcat, Apache HTTP Server, Glassfish Application Server \n
+        <b>IDE</b>: Eclipse, NetBeans, IntelliJ, Visual Studio \n
+        <b>Source Control</b>: Git, Subversion, CVS \n
+        <b>Database</b>: MySQL, Oracle, SQL Server, PostgreSQL, MongoDB \n
+        <b>Client-Side</b>: HTML, JavaScript, React.js, jQuery, CSS \n
+        <b>Development Methodologies</b>: Scrum, Kanban \n
+        <b>Operating Systems</b>: Linux (Centos), Windows \n
+        <b>Issue - Project Tracking Software</b>: Jira, Redmine, Confluence \n
+        <b>Continuous Integration</b>: Jenkins \n
+        <b>Container Platform</b>: Docker \n
+        <b>Container Orchestration</b>: Kubernetes \n
+        <b>Other Tools</b>: SOAP UI, Wireshark, Postman, Fiddler, iText, Apache POI \n
+    </string>
+    <string name="career_note_label">Career Note</string>
+    <string name="about_me_label">About</string>
+    <string name="about_me">Versatile Software Engineer with about 10 years of hands-on experience including latest 3 years of experience leading teams through all phases of software development life cycle. Demonstrated expertise in analyzing and resolving technical issues to streamline functionality, improve quality, and enhance performance. Skilled in using technologies such as Java, Spring Boot, Spring MVC, Spring Cloud, Kafka, REST, Microservices, Docker, Kubernetes, PostgreSQL, Apache Tomcat, and Git.</string>
+    <string name="universities">Universities</string>
+    <string name="education">Education</string>
+    <string name="ocp">Oracle Certified Professional: Java SE 11 Developer</string>
+    <string name="_12_11_2021">12/11/2021</string>
+    <string name="certification">Certification</string>
+    <string name="suleyman_demirel_university">Suleyman Demirel University</string>
+    <string name="bachelors_of_science_in_computer_science">Bachelors of Science in Computer Science</string>
+    <string name="master_of_science_in_computer_science">Master of Science in Computer Science</string>
+    <string name="maharishi_international_university">Maharishi International University</string>
+    <string name="github">GitHub</string>
+    <string name="serdarisikli">serdarisikli</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="serdar_isikli_linkedIn">serdarisikli</string>
+    <string name="email">Email</string>
+    <string name="sisikli_miu_com">sisikli@miu.com</string>
+    <string name="phone">Phone</string>
+    <string name="_813_123_4567">813-123-4567</string>
+    <string name="my_contact">My Contact</string>
+    <string name="work_experience_label">Experience</string>
+    <string name="baof">Bank of America.</string>
+    <string name="sse">Senior Software Engineer</string>
+    <string name="_2022_present">2022 - Present</string>
+    <string name="argela">Argela</string>
+    <string name="team_lead">Software Development Team Lead</string>
+    <string name="_2017_2021">Feb 2017 - Aug 2021</string>
+    <string name="biznet">Biznet</string>
+    <string name="swe">Software Engineer</string>
+    <string name="_2013_2017">Jul 2013 - Feb 2017</string>
+    <string name="koderk">Koderk</string>
+    <string name="swe1">Software Engineer</string>
+    <string name="_2011_2012">Jul 2011 - Nov 2012</string>
+    <string name="projects_label">Projects</string>
+    <string name="ok">OK</string>
+    <string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="saved_theme">theme</string>
+    <string name="home_menu">Home</string>
+    <string name="about_me_menu">About Me</string>
+    <string name="work_menu">Work</string>
+    <string name="contact_menu">Contact</string>
+    <string name="login_title">Sign in to your account</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="my_linkedin">https://www.linkedin.com/in/serdarisikli/</string>
+    <string name="my_github">https://github.com/serdarisikli</string>
+    <string name="my_email">sisikli@miu.edu</string>
+    <string name="email_subject">Universtiy</string>
+    <string name="email_body">Please, dont hesitate to reach out to me.</string>
+    <string name="my_phone">tel:8131234567</string>
+    <string name="intent_filter">mailto:</string>
+    <string name="intent_key">web</string>
+    <string name="linked_in_title">LinkedIn</string>
+    <string name="github_in_title">GitHub</string>
+    <string name="setting">Setting</string>
+    <string name="add">add</string>
+    <string name="logout">Logout</string>
+
+    <string name="login_email">Username(required)</string>
+    <string name="login_password">Password(required)</string>
+    <string name="login_email_hint">example@domain.com</string>
+    <string name="login_password_hint">*******</string>
+    <string name="login_btn">Login</string>
+    <string name="login_don_t_have_an_account_yet">Don\'t have an account?</string>
+    <string name="login_link_sign_up">Create a new account</string>
+    <string name="login_forgot_your_password">Forgot your password?</string>
+
+
+    <string name="activity_login_auto_hint_email">Email</string>
+    <string name="activity_login_auto_hint_password">Password</string>
+    <string name="dialog_base_url_auto_hint_url">Url</string>
+    <string name="login_user_key">user</string>
+    <string name="login_pass_key">pass</string>
+</resources>
